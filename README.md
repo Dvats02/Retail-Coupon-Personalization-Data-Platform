@@ -45,7 +45,6 @@ The pipeline follows the Medallion Architecture (Bronze → Silver → Gold) to 
 - Product-level analytics
 - Personalized coupon feature generation
 - Data quality validation
-- Scalable Spark transformations
 - Optimized Delta tables
 
 ---
@@ -59,8 +58,6 @@ The pipeline follows the Medallion Architecture (Bronze → Silver → Gold) to 
 - Azure Databricks
 - Spark SQL
 - Python
-- Git
-- Jupyter Notebook
 
 ---
 
@@ -210,7 +207,6 @@ Personalized Coupon Dataset
 - ML-based coupon recommendation engine
 - Customer Lifetime Value prediction
 - Airflow pipeline orchestration
-- CI/CD using GitHub Actions
 - Data quality monitoring
 - Power BI dashboard
 - Feature Store integration
@@ -233,12 +229,6 @@ Add screenshots of:
 ## 👨‍💻 Author
 
 **Divyendu Vats**
-
-Data Engineer | PySpark | Databricks | Azure | Delta Lake | Spark SQL
-
-LinkedIn: *(Add your profile)*
-
-GitHub: *(Add your profile)*
 
 ---
 
